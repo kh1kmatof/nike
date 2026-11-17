@@ -56,6 +56,8 @@ body {
 .header_about {
     background: url(../images/header.png) no-repeat center / cover;
     width: 100%;
+    background-attachment: fixed;
+    
     height: 700px;
     display: flex;
     flex-direction: column;
